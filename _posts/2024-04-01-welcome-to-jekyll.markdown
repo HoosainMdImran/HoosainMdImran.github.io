@@ -1,4 +1,6 @@
----
+**Introduction** <br>
+There are 2129525 crime records, 37 distinct categories, where the latency of theft has the highest number of occurrences.
+<!-- ---
 layout: Introduction
 title:  "Introduction"
 ---
@@ -24,4 +26,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
