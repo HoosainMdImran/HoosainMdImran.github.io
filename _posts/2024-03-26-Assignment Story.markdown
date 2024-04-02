@@ -16,10 +16,16 @@ The plurality of ghost guns in crime gun recoveries has notably increased, parti
 
 According to our dataset, the map depicts that throughout the study period, 'BAYVIEW' had the most crime related to 'Weapon Law,' with 4079 crime records. On the other hand, 'RICHMOND,' which had only 691 records, would be the best place to avoid such crimes in San Fransisco (image 2).
  
-![](https://github.com/HoosainMdImran/HoosainMdImran.github.io/blob/gh-pages/assets/image3.png)
+![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image3.png)
  
 The chart shows two trends in crime over a typical day in the city from 2010 to 2017. Assaults are less frequent than weapon law violations, and both types of crime are least likely to occur in the early morning, around 4 to 6 AM. As the day progresses, the examples of both crimes grow, with a significant wave in weapon-related crimes beginning late in the morning. The peak for assault and weapon law violations happens in the evening, between 6 PM and 9 PM. After this peak, the crimes gradually decrease as the night progresses. We can see a clear connection between 'Weapon Law' and 'Assult' related crimes.
  
 This data can provide insights into the times of day most prone to criminal activities and may help law enforcement in crime prevention and resource allocation.
  
 >We speculate that the weapons law in the USA has to be reformed to ensure a significant decrease in crimes related to firearms and assault. The number of weapons sold in the USA has increased rapidly. [2
+
+<div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
+
+#### References:
+1. Laqueur, H.S., McCort, C., Smirniotis, C. et al. Trends and Sources of Crime Guns in California: 2010–2021. J Urban Health 100, 879–891 (2023). https://doi.org/10.1007/s11524-023-00741-y
+2. Chelsea P,Eugenio W.V, Rukmani B, The Gun Industry in America, The Overlooked Player in a National Crisis (2020). https://www.americanprogress.org/article/gun-industry-america/
