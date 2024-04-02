@@ -12,7 +12,7 @@ We have studied a research article titled  "Trends and Sources of Crime Guns in 
 
 According to our dataset, the map depicts that throughout the study period, 'BAYVIEW' had the most crime related to 'Weapon Law,' with 4079 crime records. On the other hand, 'RICHMOND,' which had only 691 records, would be the best place to avoid such crimes in San Fransisco (image 2).
  
-![](hhttps://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image3.png)
+![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image3.png)
  
 The chart shows two trends in crime over a typical day in the city from 2010 to 2017. Assaults are less frequent than weapon law violations, and both types of crime are least likely to occur in the early morning, around 4 to 6 AM. As the day progresses, the examples of both crimes grow, with a significant wave in weapon-related crimes beginning late in the morning. The peak for assault and weapon law violations happens in the evening, between 6 PM and 9 PM. After this peak, the crimes gradually decrease as the night progresses. We can see a clear connection between 'Weapon Law' and 'Assult' related crimes.
  
