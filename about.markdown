@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**contribution of the project**
+**Contribution of the project**
