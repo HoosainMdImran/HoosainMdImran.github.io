@@ -1,10 +1,7 @@
 ## Introduction <br>
 There are 2129525 crime records, 37 distinct categories, where the latency of theft has the highest number of occurrences.
 ## Story
-We have studied a research article titled  "Trends and Sources of Crime Guns in California: 2010–2021," which offers a comprehensive view into the patterns of crime gun recoveries and the origins of these firearms, focusing on the rise of privately manufactured firearms (PMFs), also known as ghost guns, and the role of firearm theft and licensed retailers in the supply of crime guns.
-<br>
-There has been a 70% increase in the number of crime guns recovered in California from 2010 to 2021. This rise is accompanied by a significant growth in the number of firearms recovered shortly after their purchase, suggesting a potential diversion from the legal market to criminal use.  
-The plurality of ghost guns in crime gun recoveries has notably increased, particularly in the last 2-3 years covered by the study. These firearms are difficult to trace due to the lack of serial numbers and legal purchase records.[1]
+We have studied a research article titled  "Trends and Sources of Crime Guns in California: 2010–2021," which offers a comprehensive view into the patterns of crime gun recoveries and the origins of these firearms, focusing on the rise of privately manufactured firearms (PMFs), also known as ghost guns, and the role of firearm theft and licensed retailers in the supply of crime guns. There has been a 70% increase in the number of crime guns recovered in California from 2010 to 2021. This rise is accompanied by a significant growth in the number of firearms recovered shortly after their purchase, suggesting a potential diversion from the legal market to criminal use. The plurality of ghost guns in crime gun recoveries has notably increased, particularly in the last 2-3 years covered by the study. These firearms are difficult to trace due to the lack of serial numbers and legal purchase records.[1]
 <br>
 >We tried to capture a holistic view from this paper, and since Sanfransisoc is a city in California, this paper (systematically structured valid information source )will help us to evaluate our ideas.
  
@@ -21,7 +18,7 @@ The chart shows two trends in crime over a typical day in the city from 2010 to 
  
 This data can provide insights into the times of day most prone to criminal activities and may help law enforcement in crime prevention and resource allocation.
  
->We speculate that the weapons law in the USA has to be reformed to ensure a significant decrease in crimes related to firearms and assault. The number of weapons sold in the USA has increased rapidly. [2
+>We speculate that the weapons law in the USA has to be reformed to ensure a significant decrease in crimes related to firearms and assault. The number of weapons sold in the USA has increased rapidly.[2]
 
 <div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 
