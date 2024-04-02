@@ -25,3 +25,8 @@ This data can provide insights into the times of day most prone to criminal acti
 #### References:
 1. Laqueur, H.S., McCort, C., Smirniotis, C. et al. Trends and Sources of Crime Guns in California: 2010–2021. J Urban Health 100, 879–891 (2023). https://doi.org/10.1007/s11524-023-00741-y
 2. Chelsea P,Eugenio W.V, Rukmani B, The Gun Industry in America, The Overlooked Player in a National Crisis (2020). https://www.americanprogress.org/article/gun-industry-america/
+<div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
+
+**Contribution of the project**
+<br>
+All the students contribute in the project equally.
