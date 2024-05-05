@@ -6,16 +6,11 @@ It's essential to recognize the elements that fundamentally contribute to happin
 
 #### The Pursuit of Happiness
 Our study mainly looking for some patterns of hapiness around the world, which include the data we collected from the world hapiness data that includes year 2015 to 2023. This dataset provided the yearly data of coutries' hapiness scores, along with GDP per capita, healthy life expectancy, freedom to make life choices, social support and so on. For now we will compare the average hapiness score with GDP per capita for each of the countries, we will analysis whether money can buy happiness or not.
-
-
-
-
->We tried to capture a holistic view from this paper, and since Sanfransisoc is a city in California, this paper (systematically structured valid information source )will help us to evaluate our ideas.
  
  ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image1.png)
  The rise in the purchase of legal firearms and the subsequent increase in crime gun recoveries with short TTCs might be linked to the initial surge in assaults depicted in the graph (image 1).
  
-![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image%202.png)
+![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image2.png)
 
 According to our dataset, the map depicts that throughout the study period, 'BAYVIEW' had the most crime related to 'Weapon Law,' with 4079 crime records. On the other hand, 'RICHMOND,' which had only 691 records, would be the best place to avoid such crimes in San Fransisco (image 2).
  
