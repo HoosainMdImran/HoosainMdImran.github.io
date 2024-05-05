@@ -5,7 +5,7 @@ It's essential to recognize the elements that fundamentally contribute to happin
 <br>
 
 #### The Pursuit of Happiness
-our study mainly looking for some patterns of hapiness around the world, which include the data we collected from the world hapiness data that includes year 2015 to 2023. This dataset provided the yearly data of coutries' hapiness scores, along with GDP per capita, healthy life expectancy, freedom to make life choices, social support and so on. For now we will compare the average hapiness score with GDP per capita for each of the countries, we will analysis whether money can buy happiness or not.
+Our study mainly looking for some patterns of hapiness around the world, which include the data we collected from the world hapiness data that includes year 2015 to 2023. This dataset provided the yearly data of coutries' hapiness scores, along with GDP per capita, healthy life expectancy, freedom to make life choices, social support and so on. For now we will compare the average hapiness score with GDP per capita for each of the countries, we will analysis whether money can buy happiness or not.
 
 
 
