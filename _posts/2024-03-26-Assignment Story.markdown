@@ -1,7 +1,7 @@
 ## Introduction <br>
 In this part of our research we will find the relation between hapiness and GDP. Moreover, we will find if there is any other link between hapiness score with other variable like social benifit, healthy life expectancy for find the relationship. We use the dataset of world happiness report [1].The dataset includes information from 171 different countries and is categorized into 11 distinct regions.
 ## Story
-It's essential to recognize the elements that fundamentally contribute to happiness in a world where progress and improved living standards are being searched for. The complicated relationship between economic prosperity and emotional well-being is highlighted by recent research on global happiness statistics, which shows how these factors connect globally. For this reason we will dive into topic and go on some deep research about the ponit at below. Our main priority will be find some co-relation between hapiness score and the variables are doing this.
+It's essential to recognize the elements that fundamentally contribute to happiness in a world where progress and high quality of living standards are being searched for. The complicated relationship between economic prosperity and emotional well-being is highlighted by recent research on global happiness statistics, which shows how these factors connect globally. For this reason we will dive into topic and go on some deep research about the ponit at below. Our main priority will be find some co-relation between hapiness score and the variables are doing this.
 <br>
 >We tried to capture a holistic view from this paper, and since Sanfransisoc is a city in California, this paper (systematically structured valid information source )will help us to evaluate our ideas.
  
