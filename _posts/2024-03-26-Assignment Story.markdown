@@ -5,11 +5,12 @@ It's essential to recognize the elements that fundamentally contribute to happin
 <br>
 
 #### The Pursuit of Happiness
-Our study mainly looking for some patterns of hapiness around the world, which include the data we collected from the world hapiness data that includes year 2015 to 2023. This dataset provided the yearly data of coutries' hapiness scores, along with GDP per capita, healthy life expectancy, freedom to make life choices, social support and so on. For now we will compare the average hapiness score with GDP per capita for each of the countries, we will analysis whether money can buy happiness or not.
+Our study mainly looking for some patterns of hapiness around the world, which include the data we collected from the world hapiness data that includes year 2015 to 2023. This dataset provided the yearly data of coutries' hapiness scores, along with GDP per capita, healthy life expectancy, freedom to make life choices, social support and so on. For now we will compare the average hapiness score with average GDP per capita for each of the countries, we will analysis whether money can buy happiness or not.
  
  ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image1.png)
- The rise in the purchase of legal firearms and the subsequent increase in crime gun recoveries with short TTCs might be linked to the initial surge in assaults depicted in the graph (image 1).
+ Figure 1: Top five and last five country in the ranking of world hapiest contry in the world.
  
+ In the avobe table we can see that Switzerland having the highest average GPD but it is on the number four on the list, whereas, Finland is on the top with just little bit less than that number. More or less we can see that there are some other variables that making this type of fluctuatioon in the position or in the hapiness scores.
 ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image2.png)
 
 According to our dataset, the map depicts that throughout the study period, 'BAYVIEW' had the most crime related to 'Weapon Law,' with 4079 crime records. On the other hand, 'RICHMOND,' which had only 691 records, would be the best place to avoid such crimes in San Fransisco (image 2).
