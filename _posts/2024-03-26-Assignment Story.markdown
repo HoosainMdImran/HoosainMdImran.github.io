@@ -3,6 +3,13 @@ In this part of our research we will find the relation between hapiness and GDP.
 ## Story
 It's essential to recognize the elements that fundamentally contribute to happiness in a world where progress and high quality of living standards are being searched for. The complicated relationship between economic prosperity and emotional well-being is highlighted by recent research on global happiness statistics, which shows how these factors connect globally. For this reason we will dive into topic and go on some deep research about the ponit at below. Our main priority will be find some co-relation between hapiness score and the variables are doing this.
 <br>
+
+#### The Pursuit of Happiness
+our study mainly looking for some patterns of hapiness around the world, which include the data we collected from the world hapiness data that includes year 2015 to 2023. This dataset provided the yearly data of coutries' hapiness scores, along with GDP per capita, healthy life expectancy, freedom to make life choices, social support and so on. For now we will compare the average hapiness score with GDP per capita for each of the countries, we will analysis whether money can buy happiness or not.
+
+
+
+
 >We tried to capture a holistic view from this paper, and since Sanfransisoc is a city in California, this paper (systematically structured valid information source )will help us to evaluate our ideas.
  
  ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image1.png)
