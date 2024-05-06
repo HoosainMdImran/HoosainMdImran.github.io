@@ -10,8 +10,11 @@ Our study mainly looking for some patterns of hapiness around the world, which i
  ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image1.png)
  Figure 1: Top five and last five country in the ranking of world hapiest contry in the world.
  
- In the avobe table we can see that Switzerland having the highest average GPD but it is on the number four on the list, whereas, Finland is on the top with just little bit less than that number. More or less we can see that there are some other variables that making this type of fluctuatioon in the position or in the hapiness scores.
- 
+ In the avobe table we can see that Switzerland having the highest average GPD but it is on the number four on the list, whereas, Finland is on the top with just little bit less than that number. More or less we can see that there are some other variables that making this type of fluctuatioon in the position or in the hapiness scores. 
+
+ At the top of table, Nordic countries like Finland , Denmark and Iceland consistently outline others, because of their best economic performance with high hapiness score. However, there are other countries like Switzerland where GDP per capita is highest among these 5 but they came in the number four because of other factors like comprehensive welfare systems, low corruption levels, and effective social support structures.
+ Now we will look deep down other relations with the other variables with the hapiness score.
+
 ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image2.png)
 
 According to our dataset, the map depicts that throughout the study period, 'BAYVIEW' had the most crime related to 'Weapon Law,' with 4079 crime records. On the other hand, 'RICHMOND,' which had only 691 records, would be the best place to avoid such crimes in San Fransisco (image 2).
