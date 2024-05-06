@@ -1,10 +1,14 @@
 ## Introduction <br>
+<div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 In this part of our research we will find the relation between hapiness and GDP. Moreover, we will find if there is any other link between hapiness score with other variable like social benifit, healthy life expectancy for find the relationship. We use the dataset of world happiness report [1].The dataset includes information from 171 different countries and is categorized into 11 distinct regions.
+
 ## Story
+<div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 It's essential to recognize the elements that fundamentally contribute to happiness in a world where progress and high quality of living standards are being searched for. The complicated relationship between economic prosperity and emotional well-being is highlighted by recent research on global happiness statistics, which shows how these factors connect globally. For this reason we will dive into topic and go on some deep research about the ponit at below. Our main priority will be find some co-relation between hapiness score and the variables are doing this.
 <br>
 
 #### The Pursuit of Happiness
+<div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 Our study mainly looking for some patterns of hapiness around the world, which include the data we collected from the world hapiness data that includes year 2015 to 2023. This dataset provided the yearly data of coutries' hapiness scores, along with GDP per capita, healthy life expectancy, freedom to make life choices, social support and so on. For now we will compare the average hapiness score with average GDP per capita for each of the countries, we will analysis whether money can buy happiness or not.
 
 ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image1.png)
@@ -22,6 +26,7 @@ As we can see like GDP per capita, social support, healthy life expentency and f
 ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image3.png)
 
 #### Our Story Journey To World happiest country From Least Happiest Country
+<div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 Three of us hail from Bangladesh, a developing country. Our experience of living in Bangladesh shows that GDP is a dream covered in copper foil. 
  
 Bangladesh faces significant challenges as a developing country. In 2020, about 30 percent of its population, which equates to 50 million people, lived in poverty. Economic disparity is also increasing; from 2010 to 2016, the Gini coefficient, a measure of income inequality, rose from 0.458 to 0.482. According to The Economist, the earnings of the wealthiest households increased by 25%, while that of the poorest households decreased by 33% during this period. Bangladesh must house two million new job seekers joining the labor market every year for the next decade. Further, the country is highly vulnerable to climate shift, ranking as the seventh most at-risk nation globally. These factors combine to offer profound challenges.[2]
@@ -29,10 +34,10 @@ Bangladesh faces significant challenges as a developing country. In 2020, about 
 <div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 
 #### References:
-1. Laqueur, H.S., McCort, C., Smirniotis, C. et al. Trends and Sources of Crime Guns in California: 2010–2021. J Urban Health 100, 879–891 (2023). https://doi.org/10.1007/s11524-023-00741-y
-2. Chelsea P,Eugenio W.V, Rukmani B, The Gun Industry in America, The Overlooked Player in a National Crisis (2020). https://www.americanprogress.org/article/gun-industry-america/
+1. Singh, A. (2023) World happiness report 2023, Kaggle. Available at: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023 (Accessed: 06 May 2024). 
+2. Yusuf, S. (no date) Bangladesh: Growth miracle or Mirage?, Center For Global Development. Available at: https://www.cgdev.org/blog/bangladesh-growth-miracle-or-mirage (Accessed: 06 May 2024).
 <div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 
 **Contribution of the project**
 <br>
-All the students contribute in the project equally.
+ 
