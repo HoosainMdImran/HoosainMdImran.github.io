@@ -26,9 +26,15 @@ As we can see like GDP per capita, social support, healthy life expentency and f
 ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image3.png)
 Figure 3: Data Distribution among every vsrisble In our  Data set.
 
+As we can see from the distribution of the data every other data is well distributed rather that perception of corouption and genriosity. So we can say that every point of the data set have some influence on the hapiness score and hapiness is not all about money, there are some factors like social support and also GDP per capita does not mean that everybody earn that much money on that particular country it is near an assumption fro the average income of the people of the society.
 
 
 ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image4.png)
+Figure 4: Co-relation Matrix
+
+In the above matrix we can see that GDP per capita has the higest co-relation with the hapiness score, moreover, we can also see that there are some other factor that have strong relation with the hapiness score of our dataset. The data shows that the importance of not just economic growth, but also how wealth is used to promote public welfare and personal freedom.
+
+The lesson to politicians is simple: spending money on social services, health care, and education increases public pleasure. These findings offer researchers and citizens a road map for promoting policies that put people's welfare ahead of economic growth.
 
 #### Our Story Journey To World happiest country From Least Happiest Country
 <div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
@@ -41,6 +47,7 @@ Bangladesh faces significant challenges as a developing country. In 2020, about 
 #### References:
 1. Singh, A. (2023) World happiness report 2023, Kaggle. Available at: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023 (Accessed: 06 May 2024). 
 2. Yusuf, S. (no date) Bangladesh: Growth miracle or Mirage?, Center For Global Development. Available at: https://www.cgdev.org/blog/bangladesh-growth-miracle-or-mirage (Accessed: 06 May 2024).
+3. 
 <div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 
 **Contribution of the project**
