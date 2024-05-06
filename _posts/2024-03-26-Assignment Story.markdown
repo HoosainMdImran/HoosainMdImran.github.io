@@ -24,6 +24,11 @@ Figure 2: Linear dependencies between Hapiness score vs variables like gdp per c
 
 As we can see like GDP per capita, social support, healthy life expentency and fredom to make life choices have linear dependencies with hapiness score, whereas, we can also say that there are also some outlairs who do not go with this speach. But more or less there are also some of the outlairs they are not following this trend. So there are also some of the factors are unseen in this part of the topic. 
 ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image3.png)
+Figure 3: Data Distribution among every vsrisble In our  Data set.
+
+
+
+![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image4.png)
 
 #### Our Story Journey To World happiest country From Least Happiest Country
 <div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
