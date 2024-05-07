@@ -28,11 +28,11 @@ Figure 3: Data Distribution among every vsrisble In our  Data set.
 
 As we can see from the distribution of the data every other data is well distributed rather that perception of corouption and genriosity. So we can say that every point of the data set have some influence on the hapiness score and hapiness is not all about money, there are some factors like social support and also GDP per capita does not mean that everybody earn that much money on that particular country it is near an assumption fro the average income of the people of the society.
 
-<div style="position: relative;">
+<!-- <div style="position: relative;">
 <img src="https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image4.png" alt="Chart" style="width: 100%;">
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255, 255, 255, 0); transition: background 0.5s;">
 </div>
-</div>
+</div> -->
 ![](https://raw.githubusercontent.com/HoosainMdImran/HoosainMdImran.github.io/gh-pages/assets/image4.png)
 Figure 4: Co-relation Matrix
 
