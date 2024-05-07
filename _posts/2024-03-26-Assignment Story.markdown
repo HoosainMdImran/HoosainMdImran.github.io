@@ -47,15 +47,14 @@ Three of us hail from Bangladesh, a developing country. Our experience of living
 Bangladesh faces significant challenges as a developing country. In 2020, about 30 percent of its population, which equates to 50 million people, lived in poverty. Economic disparity is also increasing; from 2010 to 2016, the Gini coefficient, a measure of income inequality, rose from 0.458 to 0.482. According to The Economist, the earnings of the wealthiest households increased by 25%, while that of the poorest households decreased by 33% during this period. Bangladesh must house two million new job seekers joining the labor market every year for the next decade. Further, the country is highly vulnerable to climate shift, ranking as the seventh most at-risk nation globally. These factors combine to offer profound challenges.[2]
 
 
-#### Conclusion
+## Conclusion
 In summary, we can say that "Money can buy hapiness" this qoute is not one hundred percent true, although the other this of hapiness we can relate with money. But not all the hapiness come from money, there are lots of other things for people being happy in the soceity.
 
 <div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 
 #### References:
 1. Singh, A. (2023) World happiness report 2023, Kaggle. Available at: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023 (Accessed: 06 May 2024). 
-2. Yusuf, S. (no date) Bangladesh: Growth miracle or Mirage?, Center For Global Development. Available at: https://www.cgdev.org/blog/bangladesh-growth-miracle-or-mirage (Accessed: 06 May 2024).
-3. 
+2. Yusuf, S. (no date) Bangladesh: Growth miracle or Mirage?, Center For Global Development. Available at: https://www.cgdev.org/blog/bangladesh-growth-miracle-or-mirage (Accessed: 06 May 2024). 
 <div style="background: linear-gradient(to right, #ff0000, #0000ff); height: 5px;"></div>
 
 **Notebook Link** [Note Book Link](https://github.com/HoosainMdImran/HoosainMdImran.github.io/blob/gh-pages/Project_updated_noteBook.ipynb)
