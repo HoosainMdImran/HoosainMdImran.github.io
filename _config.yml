@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 02806 Social data analysis and visualization (Assignment 2)
-name: Md Imran Hossain, Md Rasel Mahmud, Zahid Hasan
-email: s232915@dtu.dk, s232237@dtu.dk, s232241@dtu.dk
+title: 02806 Social data analysis and visualization (Final Project Part B)
+name: Md Imran Hossain, Zahid Hasan, Md Rasel Mahmud
+email: s232241@dtu.dk, s232237@dtu.dk, s232915@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Assignment 2
+  Final Project: Part B
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Md Imran Hossain
